@@ -1,3 +1,5 @@
+// Finite games are played within boundaries. Infinite games play with boundaries.
+
 /*
  * Copyright © 2018 Atomist, Inc.
  *
